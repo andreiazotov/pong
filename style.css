@@ -1,0 +1,27 @@
+body {
+  background-color: #0c141f;
+  color: #6FC3DF;
+  font-family: monospace;
+  font-size: 72px;
+  font-weight: bold;
+}
+
+canvas {
+  display: block;
+  margin: 20px auto 0 auto;
+  background-color: #0c141f;
+  border: 2px solid #df740c;
+  position: relative;
+}
+
+#leftBat {
+    float: left;
+    margin-left: 200px;
+    margin-top: -336px;
+}
+
+#rightBat {
+  float: right;
+  margin-right: 200px;
+  margin-top: -336px;
+}
